@@ -2,7 +2,9 @@ import React from 'react'
 
 const Navitems = () => {
   return (
-    <div>Navitems</div>
+    <ul className='md:flex-between flex'>
+        
+    </ul>
   )
 }
 
