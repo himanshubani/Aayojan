@@ -5,7 +5,6 @@ export default function Home() {
   return (
     <main>
       <h1 className="text-4xl">Aayojan</h1>
-      <Button>hello</Button>
     </main>
   );
 }
